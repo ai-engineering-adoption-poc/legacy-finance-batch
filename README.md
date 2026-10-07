@@ -1,6 +1,9 @@
-﻿# Legacy Finance Batch
-Business purpose: Demonstration of a legacy finance batch process.
-Technology: Java.
-Business domain: Finance.
-This application is outside the Customer Digital Services LoB.
-It is intentionally independent of the CDS applications.
+# Legacy Finance Batch
+
+Nightly batch process used for finance settlement.
+
+The application reads transaction files and performs settlement processing.
+
+Technology: Java
+
+Note: This is a legacy application and is currently maintained separately from the Customer Digital Services platform.

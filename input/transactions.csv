@@ -1,0 +1,3 @@
+transactionId,accountId,amount,currency
+TX10001,AC1001,250.00,GBP
+TX10002,AC1002,175.50,GBP
